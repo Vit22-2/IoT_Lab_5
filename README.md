@@ -29,8 +29,7 @@
 | GPIO27   | IN2       | Direction 2 |
 | GND      | GND       | Common ground |
 
-![Uploading image.png…]()
-
+<img width="1280" height="652" alt="image" src="https://github.com/user-attachments/assets/ecd0c140-46bc-4c61-859a-5e65c4043148" />
 
 ## Usage Instruction
 
