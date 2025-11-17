@@ -29,8 +29,8 @@
 | GPIO27   | IN2       | Direction 2 |
 | GND      | GND       | Common ground |
 
-**Wiring Diagram:**  
-*Insert wiring image here*
+![Uploading image.png…]()
+
 
 ## Usage Instruction
 
