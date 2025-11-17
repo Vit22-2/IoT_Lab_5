@@ -49,13 +49,6 @@
 ### 3. InfluxDB Logging
 Every motor action is logged using HTTP POST in JSON format:
 
-```json
-{
-  "timestamp": "2025-11-17T08:00:00Z",
-  "action": "forward",
-  "speed": 70
-}
-
 ### 4. Grafana Dashboard
 
 Line graph: Motor speed vs time
