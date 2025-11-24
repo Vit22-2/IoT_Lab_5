@@ -59,12 +59,9 @@ Table: Event history with timestamps
 Dashboard updates live when the motor is controlled.
 
 ## Screenshots
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/12b96811-162b-4781-90c1-0f7439b19f26" /> <img width="2560" height="1440" alt="IMG_5398" src="https://github.com/user-attachments/assets/df2ff4a4-f89b-4a36-9d77-624a19cece73" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/12b96811-162b-4781-90c1-0f7439b19f26" /> 
 
-
-
-
-
+<img width="828" height="720" alt="IMG_5398" src="https://github.com/user-attachments/assets/2c643eb9-4fdb-4102-962f-284eb2a6406d" />
 
 
 ## Short Demo Video
