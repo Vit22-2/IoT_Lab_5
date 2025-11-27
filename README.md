@@ -70,5 +70,4 @@ Dashboard updates live when the motor is controlled.
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8071cd72-3947-4efb-a35f-eccb320e5a60" />
 
 ## Short Demo Video
-
-
+https://youtu.be/DvPOE22z9IA
